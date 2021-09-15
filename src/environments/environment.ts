@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'http://localhost:3000/api/phonebook',
+  url: 'https://phonebook-backend-h.herokuapp.com/api/phonebook',
 };
 
 /*
